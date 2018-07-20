@@ -29,3 +29,6 @@ What’s the difference between a thread sleep() and wait()? What about suspend(
 Write a function that traverses an array and checks the sum to the left of the index with the sum to the write of the index, and returns the index position when the left summation equals the right. Can you optimize your solution further?
 Write an iterator that traverses an array of integers, but only for even values.
 Design a library containing books with users that can check out books from the library. This task is to meant to demonstrate your design abilities.  
+An excel sheet has different rows and columns. For example, for column A, row number is 0. For column Z, row number is 25. After column Z, it again starts like AA, AB, AC...Write program to get the column name based on a number. The method should take any number and return the column name corresponding to that.  
+Write a program to get an int value as argument and return it as string. For example, if I give the number 3456 as int, it should return the same number 3456 but as an object of String. You cannot use Java API methods.  
+You have an array of int with different numbers. You have to sort it in a way that the all the even numbers should come in the starting and odd numbers in the end. You cannot use a temp array or extra array in your solution.  
