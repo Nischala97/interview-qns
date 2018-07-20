@@ -1,0 +1,31 @@
+How HashMap works in Java?  
+Count the occurrences of numbers in an array
+Briefly self-introduction;
+Talk more about the projects' structure and related technology;
+What is the difference between JDK 1.5 and JDK 1.4;
+What is the HashCode and Equal method;
+Talk about the database;
+What is index, the advantage and disadvantage;
+What is left join?  
+database: describe the 1NF, 2NF and 3NF. 
+Given a relational database, how to improve the performance of a select query involving some joins?  
+purely technical based on oops concepts in depth
+algo questions based on string are asked
+Composition vs aggregation 
+overloading vs overriding questions were not straight forward interviewer tried to confuse
+How to implement final keyword in java  
+Why String class is specific in Java?
+Compare threads behavior in single processor-multiple core and multiple processor-single core systems?
+Compare StringBuffer and StringReader!
+Write a function to reverse a string.
+What’s the difference between Interface and Abstract.
+Write a function to reverse words in a string ex: “how are you” becomes “you are how”.
+Can you assign a String to and Object? What about the other way around and why?
+Explain Generics.
+Explain Generics wildcards.
+Find the depth of a binary tree.
+How can you run one thread and then another only after the first thread has completed?
+What’s the difference between a thread sleep() and wait()? What about suspend(), resume()?
+Write a function that traverses an array and checks the sum to the left of the index with the sum to the write of the index, and returns the index position when the left summation equals the right. Can you optimize your solution further?
+Write an iterator that traverses an array of integers, but only for even values.
+Design a library containing books with users that can check out books from the library. This task is to meant to demonstrate your design abilities.  
