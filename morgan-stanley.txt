@@ -32,3 +32,185 @@ Design a library containing books with users that can check out books from the l
 An excel sheet has different rows and columns. For example, for column A, row number is 0. For column Z, row number is 25. After column Z, it again starts like AA, AB, AC...Write program to get the column name based on a number. The method should take any number and return the column name corresponding to that.  
 Write a program to get an int value as argument and return it as string. For example, if I give the number 3456 as int, it should return the same number 3456 but as an object of String. You cannot use Java API methods.  
 You have an array of int with different numbers. You have to sort it in a way that the all the even numbers should come in the starting and odd numbers in the end. You cannot use a temp array or extra array in your solution.  
+------------------
+Sampada Talwar
+1. Tell me about yourself.
+2. Difference between Hash Map and Concurrent Hash Map.
+3. We need to read a text file and store the words along with their frequency in the order of frequency. How will you do it?
+4. What is Polymorphism?
+5. What is function overriding? 
+6. Output question using Inheritance.
+7. Types of sorting. Any 1 example.
+8. Can there be more than 1 catch blocks after a try block.
+9. Question on Strings.
+10. Questions on OOPS.
+-----------------------
+Karthiga Mohan
+Why is Java called platform independent?
+Can overloading occur when return type alone is changed?
+Why Java does not support multiple inheritance?
+Tell about classes in String Buffer and String Builder. 
+Explain about abstraction, polymorphism. 
+Can parameterized constructor be used in abstract class?
+Difference between wait and sleep. 
+How to generate an exception?
+Tell about run time exception. 
+Difference between checked and unchecked exceptions. 
+How to get the kth element from the end in a singly linked list. 
+Difference between array and array list. 
+Difference between hash map and linked hash map. 
+Why do we use start() to call run()?
+How is throws() executed?  (JVM handles)
+Number and types of primitive data types. (8)
+What is String?
+Explain overloading and overriding. **
+Find the position of element of ArrayList and Character(in String). 
+Difference between Array and ArrayList.   //Arrays is a Class
+ASCII value of character with a predefined function.  
+Explain about Java. 
+Working of JRE and JVM. 
+How do you separate a String into words?
+Insert a given array. 
+Purpose of overriding. 
+Difference between Properties and HashMap. 
+Explain about HashSet. 
+What does the word final do?
+What is static keyword?
+Differences between Vector and ArrayList. 
+----------------------------
+Nischala
+Morgan qustions:
+what is concurrentHashMap?
+Why would it need a seperate class when we got Collections.synchronizedMap()?
+What is load factor in HashMap?
+If 0.75 is the one where performance is better,then why is user given a chance to modify it?
+How to you transfer data from one file to another in descending order of word frequencies?
+Telephonic interview:
+1)What is abstraction?
+2)What is polymorphism?
+3)questions abt method overloading& overriding  (changing the return type of method,changing the datatype of parameters)
+4)HashMap,TreeMap,LinkedHashMap
+5)Ways of creating thread(which is preferable)
+6)types of join
+7)a query to find name of student who got max marks from 
+8)ArrayList vs Array
+9)ArrayList vs LinkedList
+10)levels of inheritance 
+11)concurrent hashmap
+12)string builder vs string buffer
+---------------------------
+shiva sai Krishna thota
+1.abstraction
+2.polymorphism
+(Example for overloading)
+3.Exception
+(how do we create checked Exception and user Defined runtime Exception(at runtime))
+4.Diff b/w Array and ArrayList
+5.Diff b/w ArrayList and LinkedList
+6.example where we can use ArrayList and LinkedList
+7.Maps-hashMap,linkedhashMap
+   how insertion order is preserved in linkedHashMap
+8.TreeMap
+9.how Sorting is done in TreeMap
+10.Comparator and Comparable.
+11.how we can create threads.
+(threads class and runnable interface,which is better and why)
+12.wait() and sleep() diff
+13.life cycle of threads
+14.why we using start() instead of run() to run a thread
+15.Different types of join in sql
+16.why leftouter join is used
+17.query to find the student name who got highest marks from  table student(name,marks)
+18.aggregate functions(Where we use having and where)
+19.how to rename a file and display the third line from the file using linux command
+20.how to get the kth node value from the end of a single linked list(normal linked list not a collection)
+-----------------------------
+sashi.yadav.s4u
+What is abstraction?
+What is polymorphism?
+implementation of abstraction in java.
+Questions abt method overloading& overriding  
+HashMap,TreeMap,LinkedHashMap
+Ways of creating thread(which is preferable)
+Can we start same thread twice?
+types of join
+a query to find name of student who got max marks from 
+ArrayList vs Array
+ArrayList vs LinkedList
+levels of inheritance 
+concurrent hashmap
+Finding the kth element from last in linked List.
+---------------------------------
+Anshuman Jha
+Explain about oops concepts.
+Explain abstraction, encapsulation.
+Explain polymorphism.
+Define class and object.
+Collection frame work
+	Difference bw array, linked list, array list, vectors
+	hash map and tree map
+	linked hash map storage data types
+	queue stack
+	set, hash set, tree set
+Sql max score from student
+sql 5 subjects for student get name of student with max marks aggrigate of 5 subjects
+How to generate an exception?
+Tell about run time exception.
+Complie time exception 
+checked and unchecked exception, 
+keywords involved in exception handeling 
+finally key word 
+How to get the kth element from the end in a singly linked list. 
+ways of implementing thread 
+explain the better way and why
+can we start a same thread twice before it ends
+synchronization explaination 
+------------------------------------
+saranya kesavan
+1.what is abstraction?
+2.Apart from abstract class how we can achieve abstraction?
+3.give an example of overloading and overriding?
+4.differnt types of exception supported by java?
+5.FileNotFound is checked or unchecked exception?
+6.difference between array and arraylist?
+7.Difference between arraylist and linkedlist?
+8.what is the parent of all the classes?
+9 what are the methods belong to object class?
+10.what are the different types of math supported by java?
+11.what is hashmap?
+12.what are the other types of map?
+13.what is linkedhash map?
+14.Suppose your having a student object containing studid, name how will you sort the student object(any custom object) on the basis of studid in treemap?
+15.Difference between comparable and comparator?
+16.What are the possible ways to create thread in java?
+17.Which is the better way and why?
+18.Can you start same thread twice?
+19.If you are creating a thread class then how will you execute the thread method?
+20.Difference between .start() and .run()?
+21.Difference between invoking a run() through .start() and directly calling run() in thread?
+22.How many different types of join supported by database?
+23.What is self join?
+--How will you find the name of the student who secured maximum mark?
+24.Consider a student table containing two columns Studname and marks.
+25.Consider a student table containing four columns studname, mark1, mark2, mark3.(maximum total)
+26.Given a singly linkedlist how will you find the Kth element from the last?
+Morgan Stanley Telephonic Interview Questions.txt
+Displaying Morgan Stanley Telephonic Interview Questions.txt.
+---------------------
+sriviraja koganti
+1)What is abstraction?
+2)What is polymorphism?
+3)questions abt method overloading& overriding  (changing the return type of method,changing the datatype of parameters)
+4)HashMap,TreeMap,LinkedHashMap
+5)Ways of creating thread(which is preferable)
+6)types of join
+7)a query to find name of student who got max marks from 
+8)ArrayList vs Array
+9)ArrayList vs LinkedList
+10)levels of inheritance 
+11)concurrent hashmap
+12)string builder vs string buffer
+---------------------
+
+
+
