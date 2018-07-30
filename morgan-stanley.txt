@@ -194,8 +194,6 @@ saranya kesavan
 24.Consider a student table containing two columns Studname and marks.
 25.Consider a student table containing four columns studname, mark1, mark2, mark3.(maximum total)
 26.Given a singly linkedlist how will you find the Kth element from the last?
-Morgan Stanley Telephonic Interview Questions.txt
-Displaying Morgan Stanley Telephonic Interview Questions.txt.
 ---------------------
 sriviraja koganti
 1)What is abstraction?
@@ -211,6 +209,106 @@ sriviraja koganti
 11)concurrent hashmap
 12)string builder vs string buffer
 ---------------------
+Sampada - 28/7/2018
+1. Talk about OOPS.
+2. Explain Plolymorphism.
+3. class A
+   {
+	public static void display()
+	{
+	}
+   }
+
+   class B extends A
+   {
+	public static void display()
+	{
+	}
+   }
+
+Is this overloading or overriding?
+
+4. Output question on exception handling.
+
+5.Working of HashMap.
+-----------
+Anshuman - 27/7/2018
+Explain internal working of hash map.
+	signature of hashCode() method.
+	generation of hashCodes
+	Storeage of indexes.
+		Is it static or dynamic.
+		How is it stored in an array or linked list.
+		When is it initialize, when we add values or when we declare the map.
+	Data Structures used in the storage of hashMap.
+	
+Difference between arraylist and array
+	Assume arrayList is not included. Write your own dynamic function for it using arrays.
+Resizing of arrayList
+	trimToSize()
+
+--------------
+Nischala - 28/7/2018
+1)Difference between list and set?
+2)How set works
+3)Internal working of hashmap
+4)Types of exceptions?
+5)User-defined exceptions
+6)
+String display()
+{
+	try
+	{ System.out.println("try");}
+	catch(Exception e)
+	{ System.out.println("catch");}
+	finally
+	{ System.out.println("finally");}
+}
+what will this code return (Ans: try and finally)
+7)
+String display()
+{
+	try
+	{ return "try";}
+	catch(Exception e)
+	{ return "catch";}
+	finally
+	{ return "finally";}
+}
+what will this code return (Ans: finally)
+8)what happens in hashcode() and equals()?
+9)sql query using aggregate functions
+10)What is indexing and how is it useful?
+
+
+-------------------
+Sriviraja -28/7/2018
+1. Tree set implementation
+2. List vs set
+3. Explain immutability
+
+4.
+	 String disp()
+	{
+		try
+		{
+			return "try";	
+		}
+		catch
+		{
+			return "catch";	
+		}
+		finally
+		{
+			return "finally";
+		}
+
+	}
+
+5. Index in a database
+
+6. Query to find users who take more than 2 books in  a library
+------------
 
 
 
